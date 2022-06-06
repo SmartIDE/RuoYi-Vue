@@ -15,6 +15,7 @@ public class RuoYiApplication
     public static void main(String[] args)
     {
         // System.setProperty("spring.devtools.restart.enabled", "false");
+        // smoke 2022.6.6
         SpringApplication.run(RuoYiApplication.class, args);
         System.out.println("(♥◠‿◠)ﾉﾞ  若依启动成功   ლ(´ڡ`ლ)ﾞ  \n" +
                 " .-------.       ____     __        \n" +
